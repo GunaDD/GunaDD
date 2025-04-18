@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gunadi, an undergrad student at UWaterloo. Currently, I'm working on deep learning and am very interested in algorithms!
+I'm Gunadi, an undergrad student at UWaterloo interested in algorithms and deep learning!
 
 📫 Feel free to reach me out at ggani@uwaterloo.ca !
 
